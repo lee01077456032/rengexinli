@@ -1,0 +1,6 @@
+{
+  "name": "人格与心理分析平台",
+  "description": "一个全面的人格分析、问题解答与心理咨询网站，涵盖MBTI、九型人格和大五人格系统，结合AI提供深度解析与个性化建议。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
